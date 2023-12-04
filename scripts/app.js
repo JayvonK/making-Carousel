@@ -7,7 +7,7 @@ carouselBtn.addEventListener('click', function(e){
 })
 
 removeBtn.addEventListener('click', function(e){
-    injectHere.innerHTML = "";;
+    injectHere.innerHTML = "";
 })
 
 function MakeCarousel(){
